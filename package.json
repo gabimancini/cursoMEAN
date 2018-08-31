@@ -1,0 +1,28 @@
+{
+  "name": "mm",
+  "version": "1.0.0",
+  "description": "Curdo de MEAN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabimancini/cursoMEAN.git"
+  },
+  "keywords": [
+    "y776fq4e"
+  ],
+  "author": "Gabriela Mancini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabimancini/cursoMEAN/issues"
+  },
+  "homepage": "https://github.com/gabimancini/cursoMEAN#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
